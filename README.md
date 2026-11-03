@@ -1,6 +1,6 @@
 # Grab
 
-A tiny macOS app: paste a URL, click Download. It runs `yt-dlp` and `ffmpeg` under the hood.
+A native MacOS ytdl: paste a URL, click Download. It runs `yt-dlp` and `ffmpeg` under the hood.
 
 ## Setup
 
